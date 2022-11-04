@@ -64,8 +64,8 @@ global.botdate = `⫹⫺ DATE: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuw
 global.packname = wm
 global.bottime = `T I M E : ${wktuwib}`
 global.titlebot = `𝐹𝑎𝑗𝑎𝑟 𝐗 𝐹𝑒𝑙𝑖𝑥`
-global.stickpack = '𝐹𝑎𝑗𝑎𝑟 𝐗 𝐹𝑒𝑙𝑖𝑥'
-global.stickauth = `© Felix MD`
+global.stickpack = 'Bot By Fajar Alfarizi'
+global.stickauth = `© Jika ingin chat owner:\nWA: +62 813-3378-2061\nFB: Itz Kirito Kun\nIG: @mhmdfjralfarizi_\nTele: @ItzSadnessKun`
 global.week = `${week} ${date}`
 global.wibb = `${wktuwib}`
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ OWNER INFO ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
